@@ -1,5 +1,4 @@
-import './App.css';
-import TableComponent from './stories/TableComponent';
+import TableComponent from './stories/TableComponent/TableComponent';
 
 function App() {
   return (
